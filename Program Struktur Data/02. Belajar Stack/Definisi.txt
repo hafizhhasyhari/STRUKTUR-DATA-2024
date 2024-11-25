@@ -1,0 +1,18 @@
+#PENGERTIAN STACK
+
+Secara bahasa Stack artinya tumpukan.
+Masuk dan keluar, melalui ujung atau pintu yang sama yang disebut puncak yang dalam programming diistilahkan degnan : ### TOP
+
+A, B, C dan D merupakan suatu koleksi (collection. Dari ilustrasi yang digambarkan untuk 4 buah data yang ada, dapat dipastikan D yang terakhir masuk, dan pasti D yang dapat keluar lebih dahulu, sehingga pada Struktur data
+Stack berlaku prinsip LIFO (Last In First Out)
+
+Dalam struktur STACK, digunakan istilah:
+- PUSH untuk : Simpan, atau masuk, atau Insert atau Tulis
+- POP untuk : Ambil, atau keluar, atau Delete, atau Baca, atau hapus.
+
+## SINGLE STACK
+### Representasi Single Stack menggunakan Array Satu Dimensi
+Ada berbagai cara untk merepresentasikan sebuah stack. yang paling sederhana adalah dengan menggunakan struktur array satu dimensi .
+
+
+Untuk Stack biasanya nama array digunakan huruf S. 
