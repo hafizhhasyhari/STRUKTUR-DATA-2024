@@ -1,6 +1,6 @@
 # STRUKTUR-DATA-2024
 Selamat datang di direktori Struktur Data (Data Structure) 2024! 🎉
-Direktori ini merupakan dokumentasi perjalanan saya dalam mempelajari struktur data selama perkuliahan. Semua kode di sini adalah hasil eksplorasi dan implementasi konsep yang saya pelajari, dilengkapi dengan berbagai tantangan pemrograman yang saya selesaikan.
+~ Direktori ini merupakan dokumentasi perjalanan saya dalam mempelajari struktur data selama perkuliahan. Semua kode di sini adalah hasil eksplorasi dan implementasi konsep yang saya pelajari, dilengkapi dengan berbagai tantangan pemrograman yang saya selesaikan.
 
 oleh : Hafizh H Asyhari 
 @hafizhhasyhari
