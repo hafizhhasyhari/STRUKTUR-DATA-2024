@@ -1,31 +1,87 @@
-# STRUKTUR-DATA-2024
-Selamat datang di direktori Struktur Data (Data Structure) 2024! 🎉
-- Direktori ini merupakan dokumentasi perjalanan saya dalam mempelajari struktur data selama perkuliahan. Semua kode di sini adalah hasil eksplorasi dan implementasi konsep yang saya pelajari, dilengkapi dengan berbagai tantangan pemrograman yang saya selesaikan.
+# **STRUKTUR-DATA-2024**  
+**Selamat datang di repositori *Struktur Data (Data Structure) 2024*! 🎉**  
+**Welcome to the *Data Structure 2024* repository! 🎉**
 
-oleh : Hafizh H Asyhari 
-@hafizhhasyhari
-## Isi Direktori
-Program Perkuliahan Struktur Data
-Berisi kumpulan program yang dibuat berdasarkan materi dan tugas yang diberikan di kelas Struktur Data. Setiap program dirancang untuk mempelajari konsep fundamental seperti:
+Repositori ini adalah dokumentasi perjalanan saya dalam memahami dan menerapkan konsep Struktur Data selama perkuliahan.  
+This repository documents my journey in learning and implementing Data Structure concepts throughout my studies.  
 
-- Stack
-- Queue
-- Linked List
-- Tree
-- Binary Tree
-- Binary Tree Search (Penelusuran Pohon Biner)
-- Threaded Binary Tree (Pohon Biner Berbenang)
-- Representation of Arithmetic Statements in Binary Trees (Representasi Arithmetic Statement ke dalam Pohon Biner)
-- Conversion Between Forms, Infix, Prefix, and Postfix (Konversi Antar Bentuk, Infix, Prefix, dan Postfix)
-- Graph, Graph Transversal, Sorthest Path
-- Searching on One-Dimensional Arrays (Searching pada Array Satu Dimensi)
-- Sorting (Pengurutan) pada Array Satu Dimensi, Bubble Sort, Selection Sort, Inserting Sort, Shell Sort, Heap Sort, Radix Sort, Merge Sort, Quick Sort
+Semua kode yang Anda temukan di sini adalah hasil eksplorasi, eksperimen, dan penyelesaian berbagai tantangan pemrograman.  
+All the code here is the result of exploration, experimentation, and solving various programming challenges.  
 
-## Challenge C++
-Folder ini memuat tantangan-tantangan C++ yang telah saya selesaikan. Tantangan ini bertujuan untuk mengasah logika, keterampilan pemrograman, dan penerapan konsep struktur data dalam skenario nyata.
+Proyek ini sekaligus menjadi portofolio pribadi saya dalam bidang *data structure programming*.  
+This project also serves as my personal portfolio in *data structure programming*.  
 
-## Tujuan
-Proyek ini dibuat untuk mendokumentasikan perkembangan saya sebagai programmer sekaligus menjadi referensi untuk belajar dan berbagi pengetahuan dengan orang lain.
+**Oleh / By:** *Hafizh H Asyhari*  
+[@hafizhhasyhari](#)  
 
-## Cara Berkontribusi
-Jika Anda memiliki saran, masukan, atau ingin berdiskusi lebih lanjut, jangan ragu untuk membuat issue atau pull request.
+---
+
+## **📂 Isi Direktori / Directory Contents**  
+
+### **1. Program Perkuliahan Struktur Data / Data Structure Coursework**  
+Folder ini memuat kumpulan program yang dibuat berdasarkan materi dan tugas di kelas Struktur Data.  
+This folder contains programs created based on materials and assignments from the Data Structure class.  
+
+Setiap program didesain untuk memahami konsep fundamental berikut:  
+Each program is designed to explore the following fundamental concepts:  
+- **Stack**  
+- **Queue**  
+- **Linked List**  
+- **Tree and Binary Tree**  
+- **Binary Search Tree (BST)**  
+- **Threaded Binary Tree**  
+- **Representasi *Arithmetic Statement* dalam Binary Tree**  
+  *(Representation of Arithmetic Statements in Binary Trees)*  
+- **Konversi Antar Notasi (Infix, Prefix, Postfix)**  
+  *(Conversion Between Forms: Infix, Prefix, and Postfix)*  
+- **Graph dan Transversal Graph** *(Graph and Graph Traversal)*  
+- **Shortest Path Problem**  
+- **Searching dan Sorting pada Array Satu Dimensi**  
+  *(Searching and Sorting on One-Dimensional Arrays)*  
+  - **Searching:** Linear Search, Binary Search  
+  - **Sorting:** Bubble Sort, Selection Sort, Insertion Sort, Shell Sort, Heap Sort, Radix Sort, Merge Sort, Quick Sort  
+
+---
+
+### **2. Challenge C++**  
+Folder ini berisi tantangan-tantangan C++ yang saya selesaikan.  
+This folder contains C++ challenges I have completed.  
+
+Tantangan ini dirancang untuk:  
+These challenges are designed to:  
+- Mengasah logika pemrograman.  
+  *(Sharpen programming logic)*  
+- Mengaplikasikan konsep struktur data dalam situasi nyata.  
+  *(Apply data structure concepts to real-world scenarios)*  
+- Meningkatkan keterampilan pemecahan masalah dengan cara yang kreatif dan efisien.  
+  *(Enhance problem-solving skills through creative and efficient methods)*  
+
+---
+
+## **🎯 Tujuan / Goals**  
+Repositori ini dibuat untuk:  
+This repository is created to:  
+- Mendokumentasikan perjalanan saya sebagai seorang programmer.  
+  *(Document my journey as a programmer)*  
+- Berbagi referensi dan pengetahuan tentang Struktur Data dengan komunitas pemrograman.  
+  *(Share references and knowledge about Data Structures with the programming community)*  
+- Mendorong kolaborasi dan diskusi untuk memperluas wawasan.  
+  *(Encourage collaboration and discussion to broaden insights)*  
+
+---
+
+## **🤝 Cara Berkontribusi / How to Contribute**  
+Saya sangat terbuka untuk masukan, saran, atau diskusi dari Anda!  
+I am open to suggestions, feedback, or discussions from you!  
+
+Jika Anda ingin berkontribusi atau memberikan umpan balik:  
+If you'd like to contribute or provide feedback:  
+- Silakan buat *issue* untuk diskusi.  
+  *(Please create an issue for discussions)*  
+- Ajukan *pull request* jika Anda ingin menambahkan atau memperbaiki kode.  
+  *(Submit a pull request if you’d like to add or improve the code)*  
+
+---
+
+**Jelajahi, pelajari, dan mari berkolaborasi bersama!**  
+✨ *Explore, learn, and let’s collaborate together!*  
